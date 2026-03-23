@@ -1,7 +1,3 @@
----
-# Modular Shift Cipher
-
-```markdown
 # Modular Shift Cipher (Java Teaching Example)
 
 ## Overview
